@@ -1,6 +1,6 @@
-name: "S3 Sync"
+name: "kqt3-s3-sync"
 description: "Sync a directory to an AWS S3 repository"
-author: jakejarvis
+author: kqt3
 runs:
   using: docker
   image: Dockerfile
